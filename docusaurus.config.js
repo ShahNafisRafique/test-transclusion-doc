@@ -1,11 +1,13 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+
+  organizationName: 'ShahNafisRafique', // Usually your GitHub org/user name.
+  projectName: 'test-transclusion-doc', // Usually your repo name.
+  url: 'https://ShahNafisRafique.github.io',
+  baseUrl: '/test-transclusion-doc/',
+
   themeConfig: {
     navbar: {
       title: 'My Site',
@@ -35,13 +37,10 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'About us',
+              to: 'docs/aboutus',
             },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
+            
           ],
         },
         {

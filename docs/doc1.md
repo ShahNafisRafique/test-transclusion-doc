@@ -14,29 +14,29 @@ import Rajput from './people/Rajput.md'
 import Shah from './people/Shah.md'
 import Taha from './people/Taha.md'
 
-## Ahmet
+## [Ahmet](./people/Ahmet)
 <Ahmet/>
 
-## Hilal
+## [Hilal](./people/Hilal)
 <Hilal/>
 
-## Imraan
+## [Imraan](./people/Imraan)
 <Imraan/>
 
-## Isla
+## [Isla](./people/Isla)
 <Isla/>
 
-## Mehmet
+## [Mehmet](./people/Mehmet)
 <Mehmet/>
 
-## Mohammed
+## [Mohammed](./people/Mohammed)
 <Mohammed/>
 
-## Rajput
+## [Rajput](./people/Rajput)
 <Rajput/>
 
-## Shah
+## [Shah](./people/Shah)
 <Shah/>
 
-## Taha
+## [Taha](./people/Taha)
 <Taha/>
