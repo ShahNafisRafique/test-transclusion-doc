@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{127:function(o){o.exports=JSON.parse('{"docsSidebars":{"docs":[{"collapsed":true,"type":"category","label":"Introduction","items":[{"type":"link","label":"About Us","href":"/test-transclusion-doc/docs/aboutus"}]}]},"permalinkToSidebar":{"/test-transclusion-doc/docs/aboutus":"docs"}}')}}]);
